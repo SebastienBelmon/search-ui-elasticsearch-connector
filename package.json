@@ -1,0 +1,11 @@
+{
+  "name": "search-ui-elasticsearch-connector",
+  "version": "0.1.0",
+  "description": "elasticsearch API connector for Search UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastien Belmon",
+  "license": "MIT"
+}
